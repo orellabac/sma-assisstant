@@ -1,5 +1,7 @@
 # SMA Assistant
 
+![Assistant](https://raw.githubusercontent.com/orellabac/sma-assistant/main/logo.jpeg)
+
 The [Snowpark Migration Accelerator (SMA)](https://www.snowflake.com/snowflake-professional-services/snowpark-migration-accelerator/) is designed to report "issues" to you regarding the code that it migrates.
 
 At it's core, it is both an accelerator AND a troubleshooter.
